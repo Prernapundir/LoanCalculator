@@ -1,0 +1,31 @@
+.box{
+   background:url('./image.jpg');
+   border:1px solid grey; 
+   margin-top:100px;
+   box-shadow:  4px 4px 4px 5px grey; 
+  
+}
+.box1{
+  margin-left:300px;
+  margin-top:60px;
+  margin-bottom:100px;
+}
+
+.box2{
+
+  margin-left:300px;
+  margin-top:50px;
+  margin-bottom:100px;
+}
+
+h5{
+  font-weight:bold;
+  color:white;
+}
+.header{
+  margin-bottom:30px;
+}
+
+
+
+ 
